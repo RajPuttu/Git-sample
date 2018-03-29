@@ -1,3 +1,4 @@
 X: Line1 added from standard git repo
 Line appended upon submodule clone.
 X: Line2 added from git.
+Line3 appended upon submodule clone.
