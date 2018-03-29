@@ -1,2 +1,0 @@
-X: Line1 added from standard git repo
-Line appended upon submodule clone.
