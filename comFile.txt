@@ -1,0 +1,12 @@
+SELECT * from commit_sha_tbl;
+
+UPDATE commit_sha_tbl SET to_sha = "cc41b4v" WHERE access_log_id = 5;
+
+
+UPDATE commit_sha_tbl SET to_sha = "cc41b4v" WHERE access_log_id = 5;
+
+UPDATE commit_sha_tbl SET to_sha = "cc41b4v" WHERE access_log_id = 5;
+
+UPDATE commit_sha_tbl SET to_sha = "cc41b4v" WHERE access_log_id = 5;
+
+UPDATE commit_sha_tbl SET to_sha = "cc41b4v" WHERE access_log_id = 5;
